@@ -1,5 +1,5 @@
 <p align="center">
-    <a target="_blank"><img width="200" height="50" src="public/images/microservices.PNG" alt="MBATS Logo"></a>
+    <a target="_blank"><img width="200" height="50" src="public/images/logo.jpg" alt="MBATS Logo"></a>
     <br />
     <br />
     <b>Quant Trading Cloud Infrastructure</b>
