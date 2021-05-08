@@ -41,7 +41,7 @@ The provisioning Terraform code has been designed in such a way that it not only
 
 Now if you notice all the different services, the only service that's not truly serverless is the Compute Engine. The reason why this is the case is because the hosted Airflow services in Google Cloud is [Cloud Composer](https://cloud.google.com/composer), this uses Kubernettes as backend and with my current workload and use-case I felt that it was an overkill. On-top of that sometimes serverless technologies can be cost prohibitve as well, so its combination of simplicity and cost that made me to go with [Compute Engine](https://cloud.google.com/compute).
 
-[Latest Linkedin Article on scaling MBATS to the cloud using Terraform](https://www.linkedin.com/post/edit/6619730514188267520/) <br>
+[Latest Linkedin Article on scaling MBATS to the cloud using Terraform](https://www.linkedin.com/pulse/poor-mans-serverless-quant-fund-infrastructure-saeed-rahman) <br>
 [Linkedin Article about MBATS](https://www.linkedin.com/post/edit/6619730514188267520/)
 
 # Architecture
